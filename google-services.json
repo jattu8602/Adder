@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933649905107",
+    "project_id": "adder-8e2a9",
+    "storage_bucket": "adder-8e2a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933649905107:android:bced5b0bacb5dc65d7eb26",
+        "android_client_info": {
+          "package_name": "com.justin.adder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfq0dchKUWBsgpU-a93qYIBxD1daoLhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
